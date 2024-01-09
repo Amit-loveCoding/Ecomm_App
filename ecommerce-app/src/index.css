@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif; /* Use 'sans-serif' as a fallback */
+
+}
+
+code {
+  font-family: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
